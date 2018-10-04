@@ -1,4 +1,4 @@
-THIS IS AN EXPERIMENT!
+Making a change! THIS IS AN EXPERIMENT!
 
  [![TravisCI Build Status](https://travis-ci.org/jennybc/happy-git-with-r.svg?branch=master)](https://travis-ci.org/jennybc/happy-git-with-r)
 
